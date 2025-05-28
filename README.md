@@ -1,3 +1,7 @@
+NAME: KARTHIKA G
+
+REF NO: 212224050017
+
 ### ENCODER 8TO3 DATAFLOW Modelling
 
 **AIM:**
@@ -40,17 +44,25 @@ Figure 02  Encoder 8 * 3
 
 **PROGRAM**
 
-/* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
+Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:
-*/
+Developed by: KARTHIKA G
+
+RegisterNumber: 212224050017
+
+![image](https://github.com/user-attachments/assets/c709d2d7-b0d9-4968-b098-5d53db140039)
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
+![image](https://github.com/user-attachments/assets/859a5078-9466-42eb-b95a-5aa5c9af9e63)
+
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+
+![image](https://github.com/user-attachments/assets/a9e5d69a-9e6e-4bc1-b81e-ee0282ef0e95)
 
 **RESULTS**
 
+Thus the implementing Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables executed succesfully.
 
 
 
